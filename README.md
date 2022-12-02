@@ -1,21 +1,20 @@
-<h1 align="center">Hi 👋, I'm Alexis Montilla</h1>
+<h2 align="center">Hi 👋, I'm Alexis Montilla</h1>
 <h3 align="center">A passionate Software Engineer Full Stack from Valencia, Venezuela</h3>
 
 - 🔭 I’m currently working on [Oxas Tech](https://oxas.tech/)
-
 - 🌱 I’m currently learning **Reactjs, TypeScript and Ruby on Rails**
-
 - 💬 Ask me about **JavaScript, Nodejs, PHP, Laravel, Docker**
-
 - 📫 How to reach me **alexisamm9261@gmail.com**
-
 - ⚡ Fun fact **Drummer for hobbie!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alexismontla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexismontla" height="20" width="30" /></a>
-</p>
-
+<div style="display: flexbox;">
+    <div class="">
+    asdfasdfsaf
+    </div>
+    <div>
+        asfdasdfasf
+    </div>
+</div>
 <h4 align="left">Languages:</h4>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> </a> 
@@ -66,4 +65,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="25" height="25"/> </a> 
+</p>
+
+<p align="left">
+<a href="https://linkedin.com/in/alexismontla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexismontla" height="20" width="30" /></a>
 </p>

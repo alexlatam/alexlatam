@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Reactjs, TypeScript and Ruby on Rails**
 - 💬 Ask me about **JavaScript, Nodejs, PHP, Laravel, Docker**
 - 📫 How to reach me **alexisamm9261@gmail.com**
-- ⚡ Fun fact **Drummer for hobbie!**
+- ⚡ **Drummer for hobbie!**
 
 <!---
 

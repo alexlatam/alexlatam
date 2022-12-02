@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexis Montilla</h1>
-<h3 align="center">A passionate full stack developer from Valencia, Venezuela</h3>
+<h3 align="center">A passionate Software Engineer Full Stack from Valencia, Venezuela</h3>
 
 - 🔭 I’m currently working on [Oxas Tech](https://oxas.tech/)
 

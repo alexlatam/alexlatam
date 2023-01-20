@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Reactjs, TypeScript and Ruby on Rails**
 - 💬 Ask me about **JavaScript, Nodejs, PHP, Laravel, Docker**
 - 📫 How to reach me **alexis.montilla@alexlatam.tech**
-- 🎶 **Drummer for hobbie!**
+- ⚡ **Drummer for hobbie!**
 
 <br>
 <details>

@@ -40,6 +40,8 @@
 		<img  src="https://img.shields.io/badge/Jira-%20-blue"  alt="Jira"/>
 		<img  src="https://img.shields.io/badge/Slack-%20-blue"  alt="Slack"/>
 		<img  src="https://img.shields.io/badge/Scrum-%20-blue"  alt="Scrum"/>
+		<img  src="https://img.shields.io/badge/Scrum-%20-blue"  alt="SEO"/>
+		<img  src="https://img.shields.io/badge/Accessibility-%20-blue"  alt="Accessibility"/>
 	
 	
 </details>

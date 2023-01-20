@@ -10,7 +10,7 @@
 
 <br>
 <details>
-	<summary>&nbsp;&nbsp;&nbsp;<img src="https://i.ibb.co/K5cyGgD/icons8-checkmark-52.png" width="18px" height="18px" /> <b>Skills</b></summary>
+	<summary>&nbsp;&nbsp;&nbsp;🚀<b>Skills</b></summary>
 	<br/>
 		<img src="https://img.shields.io/badge/-HTML-%23222326"           alt="HTML"/>
 		<img src="https://img.shields.io/badge/-CSS-%23222326"            alt="CSS"/>

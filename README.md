@@ -8,7 +8,6 @@
 - 📫 How to reach me **alexis.montilla@alexlatam.tech**
 - ⚡ **Drummer for hobbie!**
 
-<br>
 <details>
 	<summary>&nbsp;&nbsp;&nbsp;🚀<b>Skills</b></summary>
 	<br/>
@@ -44,3 +43,9 @@
 		<img  src="https://img.shields.io/badge/-Accessibility-%23222326"  alt="Accessibility"/>
 	
 </details>
+
+<h4 align="start">Contact with me</h4>
+<p align="left">  
+    <a href="https://linkedin.com/in/alexismontla" target="_blank"><img align="center" src="https://i.ibb.co/DMDtZ81/icons8-linkedin-50.png" alt="crisruedap" height="25" width="25" /></a>  
+    <!-- <a href="https://alexlatam.tech/" target="_blank"><img align="center" src="https://i.ibb.co/Rv62tjR/icons8-website-64.png" alt="@crisruedap" height="25" width="25" /></a>   -->
+</p>

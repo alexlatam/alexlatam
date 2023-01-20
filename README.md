@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on [Oxas Tech](https://oxas.tech/)
 - 🌱 I’m currently learning **Reactjs, TypeScript and Ruby on Rails**
 - 💬 Ask me about **JavaScript, Nodejs, PHP, Laravel, Docker**
-- 📫 How to reach me **alexisamm9261@gmail.com**
-- ⚡ **Drummer for hobbie!**
+- 📫 How to reach me **alexis.montilla@alexlatam.tech**
+- 🎶 **Drummer for hobbie!**
 
 <br>
 <details>
@@ -19,12 +19,12 @@
 		<img src="https://img.shields.io/badge/-JavaScript-%23222326"     alt="Javascript"/>
 		<img src="https://img.shields.io/badge/-JQuery-%23222326"         alt="JQuery"/>
 		<img  src="https://img.shields.io/badge/-React-%23222326"         alt="React"/>
-	<br/> <br/>
+	<br/>
 		<img  src="https://img.shields.io/badge/-PHP-%23222326"   alt="PHP"/>
 		<img  src="https://img.shields.io/badge/-Node-%23222326"  alt="Node"/>
 		<img  src="https://img.shields.io/badge/-Laravel-%23222326"  alt="Laravel"/>
 		<img  src="https://img.shields.io/badge/-Ruby%20on%20Rails-%23222326"  alt="Ruby on Rails"/>
-	<br/> <br/>
+	<br/>
 		<img  src="https://img.shields.io/badge/-Git-%23222326"  alt="Git"/>
 		<img  src="https://img.shields.io/badge/-SQL-%23222326"  alt="SQL"/>
 		<img  src="https://img.shields.io/badge/-PostgreSQL-%23222326"  alt="PostgreSQL"/>
@@ -34,7 +34,7 @@
 		<img  src="https://img.shields.io/badge/-Bash-%23222326"  alt="Bash"/>
 		<img  src="https://img.shields.io/badge/-Azure-%23222326"  alt="Azure"/>
 		<img  src="https://img.shields.io/badge/-Digital%20Ocean-%23222326"  alt="Digital Ocean"/>
-	<br/> <br/>
+	<br/>
 		<img  src="https://img.shields.io/badge/-Figma-%23222326" alt="Figma"/>	
 		<img  src="https://img.shields.io/badge/-Postman-%23222326"  alt="Postman"/>
 		<img  src="https://img.shields.io/badge/-Jira-%23222326"  alt="Jira"/>

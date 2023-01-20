@@ -19,16 +19,16 @@
 	<img src="https://img.shields.io/badge/-JQuery-blue" alt="JQuery"/>
 	<img  src="https://img.shields.io/badge/React-%20-9cf"  alt="React"/>
 	<br/>
-	<img  src="https://img.shields.io/badge/-PHP-%20-blue"  alt="PHP"/>
-	<img  src="https://img.shields.io/badge/-Node-%20-green"  alt="Node"/>
-	<img  src="https://img.shields.io/badge/-PHP-%20-red"  alt="Laravel"/>
-	<img  src="https://img.shields.io/badge/-Ruby%20on%20Rails-%20-red"  alt="Ruby on Rails"/>
+	<img  src="https://img.shields.io/badge/PHP-%20-blue"  alt="PHP"/>
+	<img  src="https://img.shields.io/badge/Node-%20-green"  alt="Node"/>
+	<img  src="https://img.shields.io/badge/PHP-%20-red"  alt="Laravel"/>
+	<img  src="https://img.shields.io/badge/Ruby%20on%20Rails-%20-red"  alt="Ruby on Rails"/>
 	<br/>
 	<br/>
-	<img  src="https://img.shields.io/badge/-Figma-green" alt="Figma"/>	
-	<img  src="https://img.shields.io/badge/-Postman-orange"  alt="Postman"/>
-	<img  src="https://img.shields.io/badge/-Jira-blue"  alt="Jira"/>
-	<img  src="https://img.shields.io/badge/-Slack-blue"  alt="Slack"/>
+	<img  src="https://img.shields.io/badge/Figma-%20-green" alt="Figma"/>	
+	<img  src="https://img.shields.io/badge/Postman-%20-orange"  alt="Postman"/>
+	<img  src="https://img.shields.io/badge/Jira-%20-blue"  alt="Jira"/>
+	<img  src="https://img.shields.io/badge/Slack-%20-blue"  alt="Slack"/>
 	
 	
 </details>

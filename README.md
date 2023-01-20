@@ -14,9 +14,8 @@
 	<br/>
 	<img src="https://img.shields.io/badge/-HTML%2FCSS-%23222326" alt="HTML/CSS"/>
 	<img src="https://img.shields.io/badge/-JavaScript-%23222326" alt="Javascript"/>
-	<img  src="https://img.shields.io/badge/-React-%23222326"  alt="React"/>
-	<img  src="https://img.shields.io/badge/-Python-%23222326"  alt="Python"/>
-	<img  src="https://img.shields.io/badge/-C-%23222326"  alt="C"/>
+	<img  src="https://img.shields.io/badge/React"  alt="React"/>
+	<img  src="https://img.shields.io/badge/Backend-PHP-blue"  alt="PHP"/>
 	<img  src="https://img.shields.io/badge/-Postman-%23222326"  alt="Postman"/>
 	<img  src="https://img.shields.io/badge/-Firebase-%23222326"  alt="HTML5"/>
 	<img  src="https://img.shields.io/badge/-Bootstrap-%23222326"  alt="Bootstrap"/>

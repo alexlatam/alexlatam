@@ -1,4 +1,4 @@
-### Hi, I'm Alexis Montilla
+### Hi, I'm Alexis Montilla [Alex Latam]
 ---
 <h4 align="start">A passionate Software Engineer Full Stack from Valencia, Venezuela</h4>
 
@@ -46,6 +46,6 @@
 
 <h4 align="start">Contact with me</h4>
 <p align="left">  
-    <a href="https://linkedin.com/in/alexismontla" target="_blank"><img align="center" src="https://i.ibb.co/DMDtZ81/icons8-linkedin-50.png" alt="crisruedap" height="25" width="25" /></a>  
+    <a href="https://linkedin.com/in/alexlatam" target="_blank"><img align="center" src="https://i.ibb.co/DMDtZ81/icons8-linkedin-50.png" alt="crisruedap" height="25" width="25" /></a>  
     <!-- <a href="https://alexlatam.tech/" target="_blank"><img align="center" src="https://i.ibb.co/Rv62tjR/icons8-website-64.png" alt="@crisruedap" height="25" width="25" /></a>   -->
 </p>

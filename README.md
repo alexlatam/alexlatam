@@ -1,4 +1,4 @@
-### Hi, I'm Alexis Montilla [Alex Latam]
+### Hi, I'm Alexis Montilla
 ---
 <h4 align="start">A passionate Software Engineer Full Stack from Valencia, Venezuela</h4>
 

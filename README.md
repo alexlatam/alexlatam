@@ -23,6 +23,7 @@
 		<img  src="https://img.shields.io/badge/-PHP-%23222326"               alt="PHP"/>
 		<img  src="https://img.shields.io/badge/-Node-%23222326"              alt="Node"/>
 		<img  src="https://img.shields.io/badge/-Laravel-%23222326"           alt="Laravel"/>
+		<img  src="https://img.shields.io/badge/-Go/Golang-%23222326"         alt="Go/Golang"/>
 		<img  src="https://img.shields.io/badge/-Ruby%20on%20Rails-%23222326" alt="Ruby on Rails"/>
 	<br/>
 		<img  src="https://img.shields.io/badge/-Git-%23222326"              alt="Git"/>

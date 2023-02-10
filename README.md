@@ -21,10 +21,11 @@
 		<img src="https://img.shields.io/badge/-React-%23222326"         alt="React"/>
 	<br/>
 		<img  src="https://img.shields.io/badge/-PHP-%23222326"               alt="PHP"/>
-		<img  src="https://img.shields.io/badge/-Node-%23222326"              alt="Node"/>
-		<img  src="https://img.shields.io/badge/-Laravel-%23222326"           alt="Laravel"/>
 		<img  src="https://img.shields.io/badge/-Go/Golang-%23222326"         alt="Go/Golang"/>
+		<img  src="https://img.shields.io/badge/-Ruby-%23222326" alt="Ruby"/>
+		<img  src="https://img.shields.io/badge/-Laravel-%23222326"           alt="Laravel"/>
 		<img  src="https://img.shields.io/badge/-Ruby%20on%20Rails-%23222326" alt="Ruby on Rails"/>
+		<img  src="https://img.shields.io/badge/-Node-%23222326"              alt="Node"/>
 	<br/>
 		<img  src="https://img.shields.io/badge/-Git-%23222326"              alt="Git"/>
 		<img  src="https://img.shields.io/badge/-SQL-%23222326"              alt="SQL"/>

@@ -32,7 +32,7 @@
 		<img  src="https://img.shields.io/badge/-PostgreSQL-%23222326"       alt="PostgreSQL"/>
 		<img  src="https://img.shields.io/badge/-MySQL-%23222326"            alt="MySQL"/>
 		<img  src="https://img.shields.io/badge/-Linux-%23222326"            alt="Linux"/>
-		<img  src="https://img.shields.io/badge/-Linux-%23222326"            alt="Docker"/>
+		<img  src="https://img.shields.io/badge/-Docker-%23222326"            alt="Docker"/>
 		<img  src="https://img.shields.io/badge/-Bash-%23222326"             alt="Bash"/>
 		<img  src="https://img.shields.io/badge/-Azure-%23222326"            alt="Azure"/>
 		<img  src="https://img.shields.io/badge/-Digital%20Ocean-%23222326"  alt="Digital Ocean"/>

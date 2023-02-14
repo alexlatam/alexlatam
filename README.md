@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Oxas Tech](https://oxas.tech/)
 - 🌱 I’m currently learning **Reactjs, TypeScript and Ruby on Rails**
-- 💬 Ask me about **JavaScript, Nodejs, PHP, Laravel, Docker**
+- 💬 Ask me about **JavaScript, Nodejs, PHP, Laravel, Go, Docker**
 - 💻 +5 years of experience working as a software engineer
 - 📫 How to reach me **alexis.montilla@alexlatam.tech**
 - ⚡ **Drummer for hobbie!**

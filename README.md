@@ -47,9 +47,8 @@
 	
 </details>
 
-<h4 align="start">Contact with me</h4>
-<p align="left">  
-    Email: <a href="https://linkedin.com/in/alexlatam" target="_blank">alexis.montilla@alexlatam.tech</a>  
-    Linkedin: <a href="https://linkedin.com/in/alexlatam" target="_blank">@alexis-montilla-software-engineer</a>
-    Medium: <a href="https://linkedin.com/in/alexlatam" target="_blank">@alexlatam</a>
-</p>
+### Contact with me
+
+- Email: <a href="https://linkedin.com/in/alexlatam" target="_blank">alexis.montilla@alexlatam.tech</a>  
+- Linkedin: <a href="https://linkedin.com/in/alexlatam" target="_blank">@alexis-montilla-software-engineer</a>
+- Medium: <a href="https://linkedin.com/in/alexlatam" target="_blank">@alexlatam</a>

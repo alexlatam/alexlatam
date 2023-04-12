@@ -16,6 +16,7 @@
 		<img src="https://img.shields.io/badge/-Bootstrap-%23222326"     alt="Bootstrap"/>
 		<img src="https://img.shields.io/badge/-TailwindsCSS-%23222326"  alt="TailwindsCSS"/>
 		<img src="https://img.shields.io/badge/-JavaScript-%23222326"    alt="Javascript"/>
+		<img src="https://img.shields.io/badge/-TypeScript-%23222326"    alt="TypeScript"/>
 		<img src="https://img.shields.io/badge/-JQuery-%23222326"        alt="JQuery"/>
 		<img src="https://img.shields.io/badge/-React-%23222326"         alt="React"/>
 	<br/>

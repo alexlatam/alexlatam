@@ -8,7 +8,7 @@
 - 💬 Ask me about **PHP, Laravel, JavaScript, TypeSCript, Nodejs, Go, Docker**
 - ⚡ **Drummer for hobbie!**
 
-<!-- <details> -->
+<details>
 	<summary>&nbsp;&nbsp;&nbsp;🚀<b>Skills</b></summary>
 	<br/>
 		<img src="https://img.shields.io/badge/-HTML-%23222326"          alt="HTML"/>
@@ -45,7 +45,7 @@
 		<img  src="https://img.shields.io/badge/-Scrum-%23222326"          alt="SEO"/>
 		<img  src="https://img.shields.io/badge/-Accessibility-%23222326"  alt="Accessibility"/>
 	
-<!-- </details> -->
+</details>
 
 ### Contact with me
 

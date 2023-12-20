@@ -3,7 +3,8 @@
 <h4 align="start">A passionate Software Engineer Full Stack from Valencia, Venezuela</h4>
 
 - 💻 +7 years of experience working as a software engineer
-- 🔭 I’m currently working on [Oxas Tech](https://oxas.tech/)
+<!-- - - 🔭 I’m currently working on [Oxas Tech](https://oxas.tech/)-->
+- 🔭 I’m currently working on [Feedback Software]([https://oxas.tech/](https://www.linkedin.com/company/feedback-software/mycompany/verification/))
 - 🌱 I’m currently learning **Reactjs and TypeScript**
 - 💬 Ask me about **PHP, Laravel, JavaScript, TypeSCript, Nodejs, Go, Docker**
 - ⚡ **Drummer for hobbie!**

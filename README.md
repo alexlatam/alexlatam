@@ -51,5 +51,5 @@
 ### Contact with me
 
 - Email: [alexis.montilla@alexlatam.tech](mailto:alexis.montilla@alexlatam.tech)
-- Linkedin: [@alexis-montilla-software-engineer](https://linkedin.com/in/alexis-montilla-software-engineer)
+- Linkedin: [@alexlatam](https://linkedin.com/in/alexlatam)
 - Medium: [@alexlatam](https://linkedin.com/in/alexlatam)

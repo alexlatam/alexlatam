@@ -50,6 +50,6 @@
 
 ### Contact with me
 
-- Email: [alexis.montilla@alexlatam.tech](mailto:alexis.montilla@alexlatam.tech)
+- Email: [alexisamm9261@gmail.com](mailto:alexisamm9261@gmail.com)
 - Linkedin: [@alexlatam](https://linkedin.com/in/alexlatam)
 - Medium: [@alexlatam](https://linkedin.com/in/alexlatam)

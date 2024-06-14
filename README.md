@@ -4,7 +4,7 @@
 
 - 💻 +7 years of experience working as a software engineer
 <!-- - - 🔭 I’m currently working on [Oxas Tech](https://oxas.tech/)-->
-- 🔭 I’m currently working on [TheGrint]([https://thegrint.com/))
+- 🔭 I’m currently working on [TheGrint]([https://thegrint.com/)
 - 🌱 I’m currently learning **Reactjs and TypeScript**
 - 💬 Ask me about **PHP, Laravel, JavaScript, TypeSCript, Nodejs, Go, Docker**
 - ⚡ **Drummer for hobbie!**

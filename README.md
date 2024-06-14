@@ -4,11 +4,11 @@
 
 - 💻 +7 years of experience working as a software engineer
 - 🌎 I work **100% Remote!**
-<!-- - - 🔭 I’m currently working on [Oxas Tech](https://oxas.tech/)-->
 - 🔭 I’m currently working on [TheGrint]([https://thegrint.com/)
 - 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **PHP, Laravel, JavaScript, TypeScript, Nodejs, Go, Docker**
 - 🥁 **Drummer for hobbies!**
+<!-- - - 🔭 I’m currently working on [Oxas Tech](https://oxas.tech/)-->
 
 <details>
 	<summary>&nbsp;&nbsp;&nbsp;🚀<b>Skills</b></summary>

@@ -1,13 +1,14 @@
 ### Hi, I'm Alexis Montilla
 ---
-<h4 align="start">A passionate Software Engineer Full Stack from Valencia, Venezuela</h4>
+<h4 align="start">A passionate Software Engineer Full Stack</h4>
 
 - 💻 +7 years of experience working as a software engineer
+- 🌎 I work **100% Remote!**
 <!-- - - 🔭 I’m currently working on [Oxas Tech](https://oxas.tech/)-->
 - 🔭 I’m currently working on [TheGrint]([https://thegrint.com/)
 - 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **PHP, Laravel, JavaScript, TypeScript, Nodejs, Go, Docker**
-- ⚡ **Drummer for hobbie!**
+- 🥁 **Drummer for hobbies!**
 
 <details>
 	<summary>&nbsp;&nbsp;&nbsp;🚀<b>Skills</b></summary>
@@ -50,6 +51,6 @@
 
 ### Contact with me
 
-- Email: [alexisamm9261@gmail.com](mailto:alexisamm9261@gmail.com)
+- Email: [alexlatamve@gmail.com](mailto:alexlatamve@gmail.com)
 - Linkedin: [@alexlatam](https://linkedin.com/in/alexlatam)
 - Medium: [@alexlatam](https://linkedin.com/in/alexlatam)

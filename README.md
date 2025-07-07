@@ -2,11 +2,11 @@
 ---
 <h4 align="start">A passionate Software Engineer Full Stack</h4>
 
-- 💻 +7 years of experience working as a software engineer
+- 💻 +8 years of experience working as a software engineer
 - 🌎 I work **100% Remote!**
-- 🔭 I’m currently working on [TheGrint]([https://thegrint.com/)
-- 🌱 I’m currently learning **Rust**
-- 💬 Ask me about **PHP, Laravel, JavaScript, TypeScript, Nodejs, Go, Docker**
+- 🔭 I’m currently open for new opportunities!!
+- 🌱 I’m currently learning ****
+- 💬 Ask me about **PHP, Python, TypeScript, FastApi, React, Laravel, JavaScript, Nodejs, Linux, Docker**
 - 🥁 **Drummer for hobbies!**
 <!-- - - 🔭 I’m currently working on [Oxas Tech](https://oxas.tech/)-->
 
@@ -51,6 +51,6 @@
 
 ### Contact with me
 
-- Email: [alexlatamve@gmail.com](mailto:alexlatamve@gmail.com)
+- Email: [alexlatamve@gmail.com](mailto:alexis.montilla@oxas.tech)
 - Linkedin: [@alexlatam](https://linkedin.com/in/alexlatam)
-- Medium: [@alexlatam](https://linkedin.com/in/alexlatam)
+- Medium: [@alexlatam](https://medium.com/@alexlatam)

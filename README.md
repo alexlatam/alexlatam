@@ -24,7 +24,7 @@
 	<br/>
 		<img  src="https://img.shields.io/badge/-PHP-%23222326"               alt="PHP"/>
 		<img  src="https://img.shields.io/badge/-Python-%23222326"               alt="Python"/>
-		<img  src="https://img.shields.io/badge/-Go/Golang-%23222326"         alt="Go/Golang"/>
+		<img  src="https://img.shields.io/badge/-TypeScript/TypeScript-%23222326"         alt="Go/Golang"/>
 <!-- 		<img  src="https://img.shields.io/badge/-Ruby-%23222326" alt="Ruby"/> -->
 		<img  src="https://img.shields.io/badge/-FastAPI-%23222326"               alt="FastAPI"/>
  		<img  src="https://img.shields.io/badge/-Laravel-%23222326"           alt="Laravel"/>

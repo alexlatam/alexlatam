@@ -5,8 +5,8 @@
 - 💻 +8 years of experience working as a software engineer
 - 🌎 I work **100% Remote!**
 - 🔭 I’m currently open for new opportunities!!
-- 🌱 I’m currently learning ****
-- 💬 Ask me about **PHP, Python, TypeScript, FastApi, React, Laravel, JavaScript, Nodejs, Linux, Docker**
+- 🌱 I’m currently learning **Rust**
+- 💬 Ask me about **PHP, Python, TypeScript, FastApi, React, Laravel, Nest, JavaScript, Nodejs, Linux, Docker**
 - 🥁 **Drummer for hobbies!**
 <!-- - - 🔭 I’m currently working on [Oxas Tech](https://oxas.tech/)-->
 

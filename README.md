@@ -2,7 +2,7 @@
 ---
 <h4 align="start">A passionate Software Engineer Full Stack</h4>
 
-- 💻 +8 years of experience working as a software engineer
+- 💻 +10 years of experience working as a software engineer
 - 🌎 I work **100% Remote!**
 - 🔭 I’m currently open for new opportunities!!
 - 🌱 I’m currently learning **Rust**

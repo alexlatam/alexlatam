@@ -35,6 +35,7 @@ plus React / Next.js / React Native on the front.
 
 - Email: [alexlatamve@gmail.com](mailto:alexis.montilla@oxas.tech)
 - Linkedin: [@alexlatam](https://linkedin.com/in/alexlatam)
+- Calendly: [Call: 30 min](https://calendly.com/alexlatam/senior-software-engineers-10-yoe)
 - Medium: [@alexlatam](https://medium.com/@alexlatam)
 
 ## Fun facts

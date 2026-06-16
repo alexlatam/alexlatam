@@ -1,5 +1,5 @@
-### Hi, I'm Alexis Montilla
----
+## Hi, I'm Alexis Montilla
+
 ## A passionate Senior Software Engineer - Full Stack
 
 I've been shipping production code for over last 10 years.
@@ -36,8 +36,6 @@ plus React / Next.js / React Native on the front.
 - Email: [alexlatamve@gmail.com](mailto:alexis.montilla@oxas.tech)
 - Linkedin: [@alexlatam](https://linkedin.com/in/alexlatam)
 - Medium: [@alexlatam](https://medium.com/@alexlatam)
-
----
 
 ## Fun facts
 

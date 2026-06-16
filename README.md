@@ -1,58 +1,46 @@
 ### Hi, I'm Alexis Montilla
 ---
-<h4 align="start">A passionate Software Engineer Full Stack</h4>
+## A passionate Senior Software Engineer - Full Stack
 
-- 💻 +10 years of experience working as a software engineer
-- 🌎 I work **100% Remote!**
-- 🔭 I’m currently open for new opportunities!!
-- 🌱 I’m currently learning **Rust**
-- 💬 Ask me about **PHP, Python, TypeScript, FastApi, React, Laravel, Nest, JavaScript, Nodejs, Linux, Docker**
-- 🥁 **Drummer for hobbies!**
-<!-- - - 🔭 I’m currently working on [Oxas Tech](https://oxas.tech/)-->
+I've been shipping production code for over last 10 years.
 
-<div>
-	<summary>&nbsp;&nbsp;&nbsp;🚀<b>Skills</b></summary>
-	<br/>
-		<img src="https://img.shields.io/badge/-HTML-%23222326"          alt="HTML"/>
-		<img src="https://img.shields.io/badge/-CSS-%23222326"           alt="CSS"/>
-		<img src="https://img.shields.io/badge/-Bootstrap-%23222326"     alt="Bootstrap"/>
-		<img src="https://img.shields.io/badge/-TailwindsCSS-%23222326"  alt="TailwindsCSS"/>
-		<img src="https://img.shields.io/badge/-JavaScript-%23222326"    alt="Javascript"/>
-		<img src="https://img.shields.io/badge/-TypeScript-%23222326"    alt="TypeScript"/>
-		<img src="https://img.shields.io/badge/-JQuery-%23222326"        alt="JQuery"/>
-		<img src="https://img.shields.io/badge/-React-%23222326"         alt="React"/>
-	<br/>
-		<img  src="https://img.shields.io/badge/-PHP-%23222326"               alt="PHP"/>
-		<img  src="https://img.shields.io/badge/-Python-%23222326"               alt="Python"/>
-		<img  src="https://img.shields.io/badge/-TypeScript/TypeScript-%23222326"         alt="Go/Golang"/>
-<!-- 		<img  src="https://img.shields.io/badge/-Ruby-%23222326" alt="Ruby"/> -->
-		<img  src="https://img.shields.io/badge/-FastAPI-%23222326"               alt="FastAPI"/>
- 		<img  src="https://img.shields.io/badge/-Laravel-%23222326"           alt="Laravel"/>
-<!--		<img  src="https://img.shields.io/badge/-Ruby%20on%20Rails-%23222326" alt="Ruby on Rails"/> -->
-		<img  src="https://img.shields.io/badge/-Node-%23222326"              alt="Node"/>
-	<br/>
-		<img  src="https://img.shields.io/badge/-Git-%23222326"              alt="Git"/>
-		<img  src="https://img.shields.io/badge/-SQL-%23222326"              alt="SQL"/>
-		<img  src="https://img.shields.io/badge/-PostgreSQL-%23222326"       alt="PostgreSQL"/>
-		<img  src="https://img.shields.io/badge/-MySQL-%23222326"            alt="MySQL"/>
-		<img  src="https://img.shields.io/badge/-Linux-%23222326"            alt="Linux"/>
-		<img  src="https://img.shields.io/badge/-Docker-%23222326"            alt="Docker"/>
-		<img  src="https://img.shields.io/badge/-Bash-%23222326"             alt="Bash"/>
-		<img  src="https://img.shields.io/badge/-Azure-%23222326"            alt="Azure"/>
-		<img  src="https://img.shields.io/badge/-Digital%20Ocean-%23222326"  alt="Digital Ocean"/>
-	<br/>
-		<img  src="https://img.shields.io/badge/-Figma-%23222326"          alt="Figma"/>	
-		<img  src="https://img.shields.io/badge/-Postman-%23222326"        alt="Postman"/>
-		<img  src="https://img.shields.io/badge/-Jira-%23222326"           alt="Jira"/>
-		<img  src="https://img.shields.io/badge/-Slack-%23222326"          alt="Slack"/>
-		<img  src="https://img.shields.io/badge/-Scrum-%23222326"          alt="Scrum"/>
-		<img  src="https://img.shields.io/badge/-Scrum-%23222326"          alt="SEO"/>
-		<img  src="https://img.shields.io/badge/-Accessibility-%23222326"  alt="Accessibility"/>
-	
-</div>
+Senior Full-Stack Engineer with 10+ years shipping production systems across
+fintech, e-commerce, and social platforms — most recently as Founding Engineer
+at an early-stage startup.
 
-### Contact with me
+I work end-to-end: backend architecture, frontend, and the infra underneath it.
+Two backend stacks I know deeply — **NestJS/TypeScript** and **Laravel/PHP** —
+plus React / Next.js / React Native on the front.
+
+## What I tend to be the person for:
+- Architecting systems that handle tens of millions of requests/month
+- Migrations and rewrites (legacy → Modular Monolith / DDD, cloud right-sizing)
+- Building CI/CD, observability, and test suites from zero
+- Real-time infra (WebSockets) and distributed, async-first team leadership
+
+🌎 Remote-native, GMT-4 · 🧪 DDD · Clean Architecture · serious about testing
+⚡ Daily driver: agentic AI workflows (Claude Code) as part of how I build
+
+## Stack
+
+- **Languages:** TypeScript, JavaScript, PHP, Python
+- **Backend:** Node.js, NestJS, Express, Laravel, FastAPI
+- **Frontend:** React, Next.js, React Native, Tailwind
+- **Databases:** PostgreSQL, MySQL, MongoDB, Elasticsearch, Redis
+- **Infrastructure:** AWS, DigitalOcean, Docker, Linux, Nginx, PM2, GitHub Actions
+- **Observability:** Sentry, Grafana, Prometheus
+- **Practices:** DDD, Clean Architecture, Hexagonal / Onion, SOLID, Testing (unit → e2e)
+
+## Contact with me
 
 - Email: [alexlatamve@gmail.com](mailto:alexis.montilla@oxas.tech)
 - Linkedin: [@alexlatam](https://linkedin.com/in/alexlatam)
 - Medium: [@alexlatam](https://medium.com/@alexlatam)
+
+---
+
+## Fun facts
+
+- I'm married to my wonderful wife since last years 👯‍♂️
+- I'm a drummer for hobbies 🥁
+- In my spare time, I like puzzles, read history, and programming some more 👨‍💻

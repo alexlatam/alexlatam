@@ -23,8 +23,8 @@ plus React / Next.js / React Native on the front.
 
 ## Stack
 
-- **Languages:** TypeScript, JavaScript, PHP, Python
-- **Backend:** Node.js, NestJS, Express, Laravel, FastAPI
+- **Languages:** Python, TypeScript, JavaScript, PHP, Rust 
+- **Backend:** FastAPI, Node.js, NestJS, Express, Symfony, Laravel 
 - **Frontend:** React, Next.js, React Native, Tailwind
 - **Databases:** PostgreSQL, MySQL, MongoDB, Elasticsearch, Redis
 - **Infrastructure:** AWS, DigitalOcean, Docker, Linux, Nginx, PM2, GitHub Actions
